@@ -1,0 +1,15 @@
+{
+  "name": "steeler",
+  "version": "0.0.1",
+  "description": "A variety of Pittsburgh related functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/ted-sandbox/steeler.git"
+  },
+  "author": "Todd Edwards",
+  "license": "GPL-3.0"
+}
